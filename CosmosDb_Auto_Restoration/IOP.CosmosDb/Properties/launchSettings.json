@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "IOP.CosmosDb": {
+      "commandName": "Project"
+    }
+  }
+}

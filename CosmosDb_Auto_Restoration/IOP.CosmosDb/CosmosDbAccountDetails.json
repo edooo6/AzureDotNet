@@ -1,0 +1,7 @@
+[
+  {
+    "Subscription": "",
+    "ResourceGroup": "",
+    "CosmosDb": ["edwintestingcosmosdb","123test" ]
+  }
+]
